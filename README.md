@@ -1,5 +1,7 @@
 # CS121-Final
 
+https://www.youtube.com/watch?v=lWmKHFx2fkU  
+
 RootBeer Me is an innovative beverage dispensing system designed specifically for dorm rooms, providing a voice-controlled and internet-enabled mini-fridge that stores cans of soda. The system is equipped with motors for opening the fridge door and moving the can down a chute. It keeps track of inventory, which can be viewed and dispensed through a web UI. The API for the system is written in Node and the UI in React, with the Google Home being the voice-controlled client for the API. The project will be developed in two stages, with the MVP consisting of a Node server running Express on the Pi, and the React app displaying the inventory with buttons to dispense soda.
 
 The project will be developed on a budget that will depend on the cost of the hardware components and the server rental cost from AWS. The team will be responsible for developing and testing the software, ensuring that the system works with the hardware components. The project timeline and milestones will be outlined in a project plan. The target market for this product is college students who reside in dorm rooms and need quick and easy access to their favorite soda without leaving their room. RootBeer Me aims to provide a convenient and hassle-free experience that satisfies this demand.
@@ -24,4 +26,3 @@ The project will be developed on a budget that will depend on the cost of the ha
 [rootBeer.pdf](https://github.com/ypeng12/CS121-Final/files/11348994/rootBeer.1.pdf)
 
 
-https://www.youtube.com/watch?v=lWmKHFx2fkU  
